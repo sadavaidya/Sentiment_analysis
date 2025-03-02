@@ -3,3 +3,6 @@ pandas
 nltk
 gensim
 spacy
+matplotlib
+seaborn
+scikit-learn
