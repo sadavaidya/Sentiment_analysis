@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine_Learning_projects/sentiment_analysis/mlruns/0/46102f9dd2c14a48919b223be7561098/artifacts
+end_time: 1740912303804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46102f9dd2c14a48919b223be7561098
+run_name: smiling-grub-423
+run_uuid: 46102f9dd2c14a48919b223be7561098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740912296889
+status: 3
+tags: []
+user_id: svaid

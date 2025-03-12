@@ -6,3 +6,6 @@ spacy
 matplotlib
 seaborn
 scikit-learn
+mlflow
+ipykernel
+wordcloud
