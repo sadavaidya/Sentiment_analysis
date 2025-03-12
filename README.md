@@ -18,8 +18,8 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/sadavaidya/Sentiment_analysis.git
+cd Sentiment_analysis
 ```
 
 ### 2. Create and Activate the Virtual Environment
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 Run blocks from EDA.ipynb file to visualize and understand the data for further processing. 
 
-### 4. Download NLTK Data
+### 5. Download NLTK Data
 
 Inside a Python shell, run:
 
